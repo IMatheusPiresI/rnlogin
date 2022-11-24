@@ -17,7 +17,7 @@ Repositório do projeto **RNApp Login** esse repositório comtempla o projeto RN
 
        $ git clone https://github.com/IMatheusPiresI/rnlogin.git
 
-◽ Acessar a pasta to-ducks-tasks e executar o comando <br>
+◽ Acessar a pasta raiz do projeto e executar o comando <br>
 
         $ yarn
 
